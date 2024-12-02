@@ -43,7 +43,8 @@ __Regression Analysis__: Models influencer engagement to help predict future per
 __Interactive Dashboard__: Enables dynamic exploration of influencer data, including representative images and average engagement metrics.     
 __Performance Metrics__: Calculates and displays the average performance of influencers across all videos.    
 
-
+The Jupyter Notebook clearly contains the steps performed to reach the final conclusion.   
+The dashboard can be view on this link (https://influencer-analysis-dashboard.streamlit.app/)
 ## Conclusion
 This solution provides a comprehensive analysis of influencer performance and an intuitive dashboard for decision-making. By combining visualizations, regression analysis, and interactivity, this project demonstrates a robust, end-to-end approach to solving the given problem statement.
 
